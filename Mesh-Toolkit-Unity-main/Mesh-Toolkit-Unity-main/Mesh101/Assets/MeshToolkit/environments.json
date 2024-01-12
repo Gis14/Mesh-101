@@ -1,0 +1,21 @@
+{
+  "uploadEntries": [
+    {
+      "assetId": "3dd3f3ec-b570-453a-8799-4cdce2845bd9",
+      "name": " turbina eólica",
+      "isEnabled": true,
+      "uploadItems": [
+        {
+          "prefabFilepath": "Assets/StartingPoint.unity",
+          "forAndroid": false,
+          "forWin": true
+        }
+      ],
+      "perPlatformAssets": false,
+      "thumbnailImagesFolder": "Assets\\MeshToolkit\\Thumbnails\\3dd3f3ec",
+      "includeThumbnail": false,
+      "thumbnailGenerationBehavior": "Autogenerate",
+      "metaverseId": "958a9fc6-c743-42ee-80dd-2c1d8e2f8018"
+    }
+  ]
+}

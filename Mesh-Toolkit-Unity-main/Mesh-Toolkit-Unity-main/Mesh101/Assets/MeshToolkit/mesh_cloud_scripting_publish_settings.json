@@ -1,0 +1,9 @@
+{
+  "3dd3f3ec-b570-453a-8799-4cdce2845bd9": {
+    "subscriptionID": "",
+    "resourceGroup": "",
+    "mode": "Dev",
+    "location": "DefaultLocation",
+    "enableAppMonitoring": true
+  }
+}
